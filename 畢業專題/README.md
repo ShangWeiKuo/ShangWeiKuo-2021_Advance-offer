@@ -32,5 +32,13 @@
 <br>
 <br>
 <br>
+<img src="https://github.com/ShangWeiKuo/ShangWeiKuo-2020_Intern_Portfolio/blob/master/%E7%95%A2%E6%A5%AD%E5%B0%88%E9%A1%8C/%E6%88%91%E7%9A%84%E6%94%B6%E8%97%8F%E9%A6%96%E9%A0%81.png" width="600">
+圖4&nbsp;&nbsp;&nbsp;&nbsp;後台資料視覺化處理(三)：我的最愛首頁
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 <img src="https://github.com/ShangWeiKuo/GraduteProject/blob/master/%E8%A8%88%E9%87%8F%E5%9C%96.png" width="600">
-圖4&nbsp;&nbsp;&nbsp;&nbsp;後台資料視覺化處理(三)：被加入到「我的最愛」之課程統計
+圖5&nbsp;&nbsp;&nbsp;&nbsp;後台資料視覺化處理(三)：被加入到「我的最愛」之課程統計
